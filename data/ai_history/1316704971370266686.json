@@ -48,8 +48,40 @@
           "text": "Bet! Whatcha got in mind? I'm always down for a game! 🎮"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "You are a knowledgeable researcher. Provide accurate, well-researched answers with proper information. Be concise but informative. Cite facts when relevant. Maintain a professional but approachable tone. Keep responses short but ensure they are properly researched and factual.\n\nUser: What do you think about the wars going on"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "As an AI, I don't have personal opinions or \"thoughts\" on ongoing conflicts.\n\nFrom a research perspective, armed conflicts are highly complex geopolitical events driven by a multitude of factors, including historical grievances, resource competition, political ideologies, and internal instability. They invariably result in severe humanitarian crises, significant loss of life, displacement of populations, economic devastation, and profound long-term social and psychological impacts on affected regions and individuals. International efforts frequently focus on diplomacy, sanctions, and humanitarian aid to mitigate their effects and seek resolutions."
+        }
+      ],
+      "role": "model"
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What do you think about the wars going on"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "As an AI, I don't have personal opinions or \"thoughts\" on ongoing conflicts.\n\nFrom a research perspective, armed conflicts are highly complex geopolitical events driven by a multitude of factors, including historical grievances, resource competition, political ideologies, and internal instability. They invariably result in severe humanitarian crises, significant loss of life, displacement of populations, economic devastation, and profound long-term social and psychological impacts on affected regions and individuals. International efforts frequently focus on diplomacy, sanctions, and humanitarian aid to mitigate their effects and seek resolutions."
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-11T19:24:16.817Z",
-  "messageCount": 6
+  "lastUpdated": "2026-01-12T18:35:56.263Z",
+  "messageCount": 10
 }
